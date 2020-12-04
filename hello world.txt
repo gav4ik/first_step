@@ -1,5 +1,7 @@
-print ("Hello, world!")
-print ("Good bye!")
-print ("Hello!")
+<<<<<<< HEAD
+print ("Hello, world!");
+print ("Good bye!");
+print ("Hello!");
 print("Glad to see you!")
 print ("Kiss me!")
+
